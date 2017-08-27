@@ -14,6 +14,7 @@
 		5F25ABAD1F4BCC0200940776 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F25ABAB1F4BCC0200940776 /* LaunchScreen.storyboard */; };
 		5F25ABBB1F4BCF0700940776 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F25ABBA1F4BCF0700940776 /* DataService.swift */; };
 		5F25ABBD1F4D2AF400940776 /* AuthVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F25ABBC1F4D2AF400940776 /* AuthVC.swift */; };
+		5F496B031F5281D300B24B92 /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F496B021F5281D300B24B92 /* AuthService.swift */; };
 		5F5ACC0A1F52000C001ABCF0 /* InsetTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F5ACC091F52000C001ABCF0 /* InsetTextField.swift */; };
 		5F5ACC0C1F5203DF001ABCF0 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5F5ACC0B1F52033C001ABCF0 /* GoogleService-Info.plist */; };
 		5F5ACC0E1F52041B001ABCF0 /* ShadowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F5ACC0D1F52041B001ABCF0 /* ShadowView.swift */; };
@@ -31,6 +32,7 @@
 		5F25ABAE1F4BCC0200940776 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5F25ABBA1F4BCF0700940776 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		5F25ABBC1F4D2AF400940776 /* AuthVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthVC.swift; sourceTree = "<group>"; };
+		5F496B021F5281D300B24B92 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
 		5F5ACC091F52000C001ABCF0 /* InsetTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetTextField.swift; sourceTree = "<group>"; };
 		5F5ACC0B1F52033C001ABCF0 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		5F5ACC0D1F52041B001ABCF0 /* ShadowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowView.swift; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 			isa = PBXGroup;
 			children = (
 				5F25ABBA1F4BCF0700940776 /* DataService.swift */,
+				5F496B021F5281D300B24B92 /* AuthService.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 				5F25ABA51F4BCC0200940776 /* LoginVC.swift in Sources */,
 				5F25ABBD1F4D2AF400940776 /* AuthVC.swift in Sources */,
 				5F25ABA31F4BCC0200940776 /* AppDelegate.swift in Sources */,
+				5F496B031F5281D300B24B92 /* AuthService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

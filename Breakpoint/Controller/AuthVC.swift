@@ -1,5 +1,5 @@
 //
-//  AuthenticationVC.swift
+//  AuthVC.swift
 //  Breakpoint
 //
 //  Created by Marcus Ng on 8/22/17.
