@@ -10,6 +10,7 @@ import UIKit
 
 class MeVC: UIViewController {
 
+    // Outlets
     @IBOutlet weak var profileImg: UIImageView!
     @IBOutlet weak var emailLbl: UILabel!
     @IBOutlet weak var tableView: UITableView!
