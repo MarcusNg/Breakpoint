@@ -14,6 +14,7 @@
 		5F25ABAD1F4BCC0200940776 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F25ABAB1F4BCC0200940776 /* LaunchScreen.storyboard */; };
 		5F25ABBB1F4BCF0700940776 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F25ABBA1F4BCF0700940776 /* DataService.swift */; };
 		5F25ABBD1F4D2AF400940776 /* AuthVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F25ABBC1F4D2AF400940776 /* AuthVC.swift */; };
+		5F3545F21F551A7F00B20EBB /* CreateGroupsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F3545F11F551A7F00B20EBB /* CreateGroupsVC.swift */; };
 		5F496B031F5281D300B24B92 /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F496B021F5281D300B24B92 /* AuthService.swift */; };
 		5F496B051F52847400B24B92 /* FeedVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F496B041F52847400B24B92 /* FeedVC.swift */; };
 		5F496B071F52847D00B24B92 /* GroupsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F496B061F52847D00B24B92 /* GroupsVC.swift */; };
@@ -39,6 +40,7 @@
 		5F25ABAE1F4BCC0200940776 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5F25ABBA1F4BCF0700940776 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		5F25ABBC1F4D2AF400940776 /* AuthVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthVC.swift; sourceTree = "<group>"; };
+		5F3545F11F551A7F00B20EBB /* CreateGroupsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateGroupsVC.swift; sourceTree = "<group>"; };
 		5F496B021F5281D300B24B92 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
 		5F496B041F52847400B24B92 /* FeedVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedVC.swift; sourceTree = "<group>"; };
 		5F496B061F52847D00B24B92 /* GroupsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupsVC.swift; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 				5F496B061F52847D00B24B92 /* GroupsVC.swift */,
 				5F496B081F529CD400B24B92 /* MeVC.swift */,
 				5F496B0A1F5305E400B24B92 /* CreatePostVC.swift */,
+				5F3545F11F551A7F00B20EBB /* CreateGroupsVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -297,6 +300,7 @@
 				5F5ACC0A1F52000C001ABCF0 /* InsetTextField.swift in Sources */,
 				5F496B071F52847D00B24B92 /* GroupsVC.swift in Sources */,
 				5F25ABA51F4BCC0200940776 /* LoginVC.swift in Sources */,
+				5F3545F21F551A7F00B20EBB /* CreateGroupsVC.swift in Sources */,
 				5F659C201F550A2000BE4261 /* FeedCell.swift in Sources */,
 				5F496B051F52847400B24B92 /* FeedVC.swift in Sources */,
 				5F496B0B1F5305E400B24B92 /* CreatePostVC.swift in Sources */,
